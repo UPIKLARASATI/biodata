@@ -1076,7 +1076,7 @@
         <div class="profile">
 
             <img
-                src="upi.JPEG"
+                src="upi.jpeg"
                 alt="Foto Formal Upik Larasati"
                 class="profile-photo"
             >
